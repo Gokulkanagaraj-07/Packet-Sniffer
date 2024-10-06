@@ -3,9 +3,6 @@ Packet-Sniffer
 
 Usage This Code:
 
-
-
-
 git clone https://github.com/Gokulkanagaraj-07/PacketSniffer.git
 
 pip install scapy
