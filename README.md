@@ -12,7 +12,9 @@ python3 basic_packet_sniffer.py
 
 
 
-PacketSniffer
+PacketSniffer:
+
+  A packet sniffer is a tool or software used to capture and analyze data packets traveling across a computer network. Data transmitted over a network is broken into smaller units called packets, which are reassembled at the receiving end. Packet sniffing involves intercepting these packets to examine their contents.
 
 
   This Python code creates a simple graphical user interface (GUI) for a packet sniffer application using the Tkinter library. The GUI consists of a single button labeled "Start Capture" and a text area where captured packet information will be displayed. When the "Start Capture" button is clicked, the start_capture method is invoked. 
